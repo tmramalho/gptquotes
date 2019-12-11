@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gptquotes/static/css/main.cd3131cb.chunk.css",
+    "main.js": "/gptquotes/static/js/main.82db05ed.chunk.js",
+    "main.js.map": "/gptquotes/static/js/main.82db05ed.chunk.js.map",
+    "runtime-main.js": "/gptquotes/static/js/runtime-main.afefb18a.js",
+    "runtime-main.js.map": "/gptquotes/static/js/runtime-main.afefb18a.js.map",
+    "static/js/2.8098a2c4.chunk.js": "/gptquotes/static/js/2.8098a2c4.chunk.js",
+    "static/js/2.8098a2c4.chunk.js.map": "/gptquotes/static/js/2.8098a2c4.chunk.js.map",
+    "index.html": "/gptquotes/index.html",
+    "precache-manifest.de2113133e2529ce71a7dd7bdd03a4bd.js": "/gptquotes/precache-manifest.de2113133e2529ce71a7dd7bdd03a4bd.js",
+    "service-worker.js": "/gptquotes/service-worker.js",
+    "static/css/main.cd3131cb.chunk.css.map": "/gptquotes/static/css/main.cd3131cb.chunk.css.map",
+    "static/js/2.8098a2c4.chunk.js.LICENSE": "/gptquotes/static/js/2.8098a2c4.chunk.js.LICENSE",
+    "static/media/logo.svg": "/gptquotes/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afefb18a.js",
+    "static/js/2.8098a2c4.chunk.js",
+    "static/css/main.cd3131cb.chunk.css",
+    "static/js/main.82db05ed.chunk.js"
+  ]
+}
